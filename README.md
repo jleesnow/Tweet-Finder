@@ -1,6 +1,6 @@
 # Tweet-Map
 A program that creates a heat map of Tweets for a given keyword
-- output-state-map.svg is an example of the map returned given the word "sandwich"
+- output-state-map.png is an example of the map returned given the word "sandwich"
 
 
 #Known Issues
